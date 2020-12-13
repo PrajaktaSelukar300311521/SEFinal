@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MVCFinal:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVCFinal_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MVCFinal/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MVCFinal" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.mockito:mockito-core:3.5.13" />
+          <element id="library" level="project" name="Maven: org.webjars:bootstrap:3.3.6" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery:1.9.1" />
+          <element id="library" level="project" name="Maven: org.webjars:webjars-locator-core:0.30" />
+          <element id="library" level="project" name="Maven: org.webjars:webjars-locator:0.30" />
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring Batch-2.2.6" />
+          <element id="library" level="project" name="Spring Data JPA-2.2.4.RELEASE" />
+          <element id="library" level="project" name="Spring Integration-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring Security-5.2.1" />
+          <element id="library" level="project" name="Spring Web Services-2.0.2" />
+          <element id="library" level="project" name="Spring Webflow-2.4.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
